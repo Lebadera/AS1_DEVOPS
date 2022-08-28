@@ -1,0 +1,30 @@
+.Titulo {
+  padding: 10px 0;
+  margin-left: 30px;
+  text-align: left;
+  color: black;
+  font-weight:bold;
+}
+
+.Login {
+  margin-left: 30px;
+  text-align: left;
+}
+
+.Button {
+  margin-left: 2px;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.TextBox {
+  padding: 5px;
+}
+
+.Mensagem {
+  margin-left: 5px;
+  font-size: medium;
+  color: black;
+  text-align: center;
+}
